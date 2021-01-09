@@ -1,0 +1,12 @@
+blood pressure 
+heartrate 
+wireless thermometor 
+respiration rate #
+ECG 
+ardiovascular diseases, such as vascular aging
+stress 
+blood oxygen level pulse oximtor
+UV index 
+
+DBI IC desighn
+EUV Scanner
